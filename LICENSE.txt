@@ -1,0 +1,7 @@
+UCA-SLAM++ SLAM interface declarations are distributed under the GNU General
+Public License, version 3. See License-gpl.txt for the complete license.
+
+This preview includes interfaces derived from ORB-SLAM2. Existing copyright
+and license notices remain in force. See ACKNOWLEDGEMENTS.md for attribution.
+
+This software is provided without warranty, as described in the license.

@@ -1,0 +1,20 @@
+# Allow only reviewed declaration headers and release documentation.
+*
+!/.gitignore
+!/README.md
+!/LICENSE.txt
+!/License-gpl.txt
+!/ACKNOWLEDGEMENTS.md
+!/HEADER_MANIFEST.json
+!/include/
+!/include/**/
+!/include/**/*.h
+!/include/**/*.hpp
+# Never stage build products or implementation files.
+*.cc
+*.cpp
+*.c
+*.so
+*.a
+*.o
+*.pyc

@@ -1,0 +1,192 @@
+{
+  "include/Converter.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "806d3de18de4d28b2859b1ddd13650e16140b021c90db0bdc1f8935a94b090d7"
+  },
+  "include/Frame.h": {
+    "function_bodies": 2,
+    "initializers": 11,
+    "sha256": "d9fa1b2c637c08cc3b522e4ab49ba0c7d2954e8b30a0da7880943fbe43d25935"
+  },
+  "include/FrameDrawer.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "4abf91a0e52778c9d2864d22a844f628e918d798be69fa71aaf1ff7940be81f8"
+  },
+  "include/Initializer.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "9bd8bc85c4a589717c374d90720480a744710a413abfd0326f56a2d190dac054"
+  },
+  "include/KeyFrame.h": {
+    "function_bodies": 3,
+    "initializers": 47,
+    "sha256": "5a464f0b3ab8365c8b21461b9934c41ae510ca20b22a6643c55d123c618094f8"
+  },
+  "include/KeyFrameDatabase.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "9df3b1574997b3cc97d70df85d4e713628af37431f0a6a8e64d592ebc3941f67"
+  },
+  "include/LiDARIncludes/LiDARLoopPlaneRefine.hpp": {
+    "function_bodies": 4,
+    "initializers": 4,
+    "sha256": "d9f9209fbc91a67f9a17afeecc893fb3a3fbdd46e7933b875efa72a2e3ba98a3"
+  },
+  "include/LiDARIncludes/LidarHandler.h": {
+    "function_bodies": 3,
+    "initializers": 3,
+    "sha256": "fde8462162501a54b4ca0a2a49a81d975eb7ac1ff04dbbc0bd4e849a5df6247c"
+  },
+  "include/LiDARIncludes/LidarTracking.h": {
+    "function_bodies": 15,
+    "initializers": 35,
+    "sha256": "ff839713ab7d1e7620dd67343b557a9c0339b29462ae4f7c7bd4a7c732506865"
+  },
+  "include/LiDARIncludes/LidarVoxelSourceLedger.h": {
+    "function_bodies": 0,
+    "initializers": 43,
+    "sha256": "7187a13f5b1a07744125690a0b0e0c59e9d69821b0fce35b10bdd34611db2cae"
+  },
+  "include/LiDARIncludes/NativeVoxelRegistration.h": {
+    "function_bodies": 3,
+    "initializers": 13,
+    "sha256": "4a30ab96257aba079a4fb36673062747960e801c5b333278e2332fb58a3e1d90"
+  },
+  "include/LiDARIncludes/so3_math.h": {
+    "function_bodies": 5,
+    "initializers": 0,
+    "sha256": "44f16b751c9d2f821ad293c89c80299ecbbbd2e0fb54974132375ba02659567b"
+  },
+  "include/LiDARIncludes/voxelMapUtil.hpp": {
+    "function_bodies": 63,
+    "initializers": 43,
+    "sha256": "96c2c2a6f72cc672165167c4295a616c7e8a44163fbf0358592845becdd012cc"
+  },
+  "include/LocalBAGeometry.h": {
+    "function_bodies": 0,
+    "initializers": 34,
+    "sha256": "a9630d55054b8e790e0f87caadcbacf3f0e164ecf130ccbd5d89783937038419"
+  },
+  "include/LocalBALifecycle.h": {
+    "function_bodies": 32,
+    "initializers": 31,
+    "sha256": "345498785649f0cc9d4909009a10a969e16252a0665afe59c881ad0845a27134"
+  },
+  "include/LocalBAV3.h": {
+    "function_bodies": 10,
+    "initializers": 201,
+    "sha256": "bf50f428e0da4dae44dde2b9b36b683284ecc1f0feceedff35332e7ccdfb7b75"
+  },
+  "include/LocalBAV3Covariance.h": {
+    "function_bodies": 1,
+    "initializers": 86,
+    "sha256": "2aa07bc16c75997a8d67920472ca6c24fc806327f3014be3e2d20bfa1d12e71f"
+  },
+  "include/LocalBAV3Edges.h": {
+    "function_bodies": 32,
+    "initializers": 64,
+    "sha256": "feab879ac3d205a2403920f1602af782eccf591f846286dd9dcde588667e9fa9"
+  },
+  "include/LocalMapping.h": {
+    "function_bodies": 1,
+    "initializers": 2,
+    "sha256": "a837c415b3fb6513af19cdc145fd109409288a1d4a9cd07cf0e3bcee5c79c93c"
+  },
+  "include/LoopClosing.h": {
+    "function_bodies": 9,
+    "initializers": 2,
+    "sha256": "1d3001cda678cd6f1005e0b6693780f8cb099ea4b70ea81170e527c47beae004"
+  },
+  "include/Map.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "87214f8a7d3492269b0a8444a3cf4ce1c7daef7afc6b12b30e2ba6e10cbc2489"
+  },
+  "include/MapDrawer.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "a54f5f2453e4ab92e5dc5565346dc761d642f54b1cd0ce46fcd4d7f210020d8b"
+  },
+  "include/MapPoint.h": {
+    "function_bodies": 2,
+    "initializers": 1,
+    "sha256": "a890896ef7f308e93ce2e8542e5b62e40f60c937496542c4cf5df42da07b3625"
+  },
+  "include/ORBVocabulary.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "df159ffeb2171ebe3ff307c307de8931a96949935fef8e3f102da59d331e23bb"
+  },
+  "include/ORBextractor.h": {
+    "function_bodies": 8,
+    "initializers": 0,
+    "sha256": "575055f60979c4359d8e0d85c181c97abe825b99f3c89e26e9fbfee0b27d365b"
+  },
+  "include/ORBmatcher.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "f0f745dd6b85a5d0dae09fea755a2f8ace6b043279d64aead43aa1ecd26475a1"
+  },
+  "include/Optimizer.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "ae0e71212ec28d2de3a9cb2114209e9e1bbde52697c9f8ac0635decef466fc57"
+  },
+  "include/PnPsolver.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "9b357bb8a746a9610ccbcd00070e544c29f7ede7f7b7f93ad347b433deb1611a"
+  },
+  "include/PointTypes.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "820f876172b50824d920f468d1f9c1d83e529e9f681bc838eecf0afac26629b3"
+  },
+  "include/PoseCovarianceMetadata.h": {
+    "function_bodies": 3,
+    "initializers": 5,
+    "sha256": "43313deaf07d058f2ce7dbc2f5d22be0842945792d3f225265d069e6cefec4f0"
+  },
+  "include/Sim3Solver.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "1f21bebaa109ff10476a9a97cd0650ca813b248dfe9d76565834f823ff570eea"
+  },
+  "include/System.h": {
+    "function_bodies": 0,
+    "initializers": 1,
+    "sha256": "80bc7ef553079d8c508a193fbade0625aef566c0b4344711b675d96d74918a24"
+  },
+  "include/Tracking.h": {
+    "function_bodies": 6,
+    "initializers": 32,
+    "sha256": "cd5dd684c7c50880a3cad54c9cf880f300a16fa58e11927defe62e9062954b3b"
+  },
+  "include/UncertaintyUtil.h": {
+    "function_bodies": 2,
+    "initializers": 42,
+    "sha256": "8283c6c1308d4cbc270514718d81418a3fc039fa44b0496f94200c433d3256eb"
+  },
+  "include/Viewer.h": {
+    "function_bodies": 0,
+    "initializers": 0,
+    "sha256": "1afd685fff8df7c04e9c89dc43eb185c030e6cb4f2d41bd2956a8175a8bf8943"
+  },
+  "include/VisualUncertaintyModel.h": {
+    "function_bodies": 0,
+    "initializers": 8,
+    "sha256": "413f6c07f3ebf59078857612be1b6465521a527c89f4fbf64b587f1671c7757d"
+  },
+  "include/VoxelPlaneCovarianceUpdate.h": {
+    "function_bodies": 0,
+    "initializers": 30,
+    "sha256": "d882ab5b0c7f8981cf03bf15177df7a132e05874a66cecf7287664c19422073b"
+  },
+  "include/common.h": {
+    "function_bodies": 13,
+    "initializers": 0,
+    "sha256": "df14bf1f65b6d9741b83ac7a913763eb6186afee2386af65d51f0e6a585bf40e"
+  }
+}
